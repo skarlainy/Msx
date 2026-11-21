@@ -1,0 +1,32 @@
+{
+  "type": "list",
+  "headline": "Canais Abertos",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,2,4",
+    "icon": "msx-white-soft:live-tv",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "title": "Globo - Globoplay",
+      "action": "link:https://globoplay.globo.com"
+    },
+    {
+      "title": "SBT",
+      "action": "link:https://www.sbt.com.br/"
+    },
+    {
+      "title": "Bandeirantes - BandPlay",
+      "action": "link:https://www.band.uol.com.br/"
+    },
+    {
+      "title": "Record - PlayPlus",
+      "action": "link:https://www.playplus.com/"
+    },
+    {
+      "title": "TV Brasil / Cultura / Senado",
+      "action": "playlist:https://cdn.jsdelivr.net/gh/skarlainy/Msx@main/lista.m3u"
+    }
+  ]
+}
