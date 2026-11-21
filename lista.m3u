@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,TV Brasil
+https://streaming.tvbrasil.ebc.com.br/tvbrasil/index.m3u8
+#EXTINF:-1,TV Cultura
+https://streaming.cultura.tv.br/tvcultura/index.m3u8
+#EXTINF:-1,TV Senado
+https://streaming.senado.leg.br/tvsenado/index.m3u8
