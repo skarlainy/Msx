@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "pages": [
+    {
+      "name": "Canais Abertos",
+      "items": [
+        {
+          "type": "link",
+          "name": "Globo - Globoplay",
+          "data": "https://globoplay.globo.com/"
+        },
+        {
+          "type": "link",
+          "name": "SBT - +SBT",
+          "data": "https://www.sbt.com.br/"
+        },
+        {
+          "type": "link",
+          "name": "Band - BandPlay",
+          "data": "https://www.band.uol.com.br/"
+        },
+        {
+          "type": "link",
+          "name": "Record - PlayPlus",
+          "data": "https://www.playplus.com/"
+        },
+        {
+          "type": "link",
+          "name": "Premiere - Via Globoplay",
+          "data": "https://globoplay.globo.com/premiere/"
+        },
+        {
+          "type": "playlist",
+          "name": "TV Brasil / Cultura / Senado - Toca Direto",
+          "data": "https://skarlainy.github.io/msx/lista.m3u"
+        }
+      ]
+    }
+  ]
+}
