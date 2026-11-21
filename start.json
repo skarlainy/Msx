@@ -2,6 +2,7 @@
   "headline": "Canais Abertos",
   "menu": [
     {
+      "id": "canais",
       "icon": "live-tv",
       "label": "Canais Abertos",
       "data": "https://cdn.jsdelivr.net/gh/skarlainy/Msx@main/conteudo.json"
