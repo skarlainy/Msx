@@ -4,7 +4,7 @@
     {
       "icon": "live-tv",
       "label": "Canais Abertos",
-      "data": "https://skarlainy.github.io/Msx/conteudo.json"
+      "data": "https://cdn.jsdelivr.net/gh/skarlainy/Msx@main/conteudo.json"
     }
   ]
 }
