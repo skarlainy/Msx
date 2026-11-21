@@ -2,24 +2,9 @@
   "headline": "Canais Abertos",
   "menu": [
     {
-      "name": "Globo - Globoplay",
-      "action": "link:https://globoplay.globo.com"
-    },
-    {
-      "name": "SBT",
-      "action": "link:https://www.sbt.com.br/"
-    },
-    {
-      "name": "Bandeirantes - BandPlay",
-      "action": "link:https://www.band.uol.com.br/"
-    },
-    {
-      "name": "Record - PlayPlus",
-      "action": "link:https://www.playplus.com/"
-    },
-    {
-      "name": "TV Brasil / Cultura / Senado",
-      "action": "playlist:https://cdn.jsdelivr.net/gh/skarlainy/Msx@main/lista.m3u"
+      "icon": "live-tv",
+      "label": "Canais Abertos",
+      "data": "https://skarlainy.github.io/Msx/conteudo.json"
     }
   ]
 }
